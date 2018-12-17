@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{BB122AFC-222F-4E88-8751-ABDC55453793}|Default">
+  <MonoDevelop.Ide.ItemProperties.TryingTOdraw PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TryingTOdraw/Program.cs">
+    <Files>
+      <File FileName="TryingTOdraw/Program.cs" Line="66" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/justin/Projects/TryingTOdraw/TryingTOdraw/Program.cs" relfile="TryingTOdraw/Program.cs" line="188" column="1" />
+      <Breakpoint file="/home/justin/Projects/TryingTOdraw/TryingTOdraw/Program.cs" relfile="TryingTOdraw/Program.cs" line="47" column="1" />
+      <Breakpoint file="/home/justin/Projects/TryingTOdraw/TryingTOdraw/Program.cs" relfile="TryingTOdraw/Program.cs" line="66" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

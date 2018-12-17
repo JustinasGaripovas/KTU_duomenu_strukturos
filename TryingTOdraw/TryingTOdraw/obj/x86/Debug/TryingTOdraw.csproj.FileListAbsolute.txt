@@ -1,0 +1,6 @@
+/home/justin/Projects/TryingTOdraw/TryingTOdraw/bin/Debug/TryingTOdraw.exe
+/home/justin/Projects/TryingTOdraw/TryingTOdraw/bin/Debug/TryingTOdraw.pdb
+/home/justin/Projects/TryingTOdraw/TryingTOdraw/obj/x86/Debug/TryingTOdraw.csprojAssemblyReference.cache
+/home/justin/Projects/TryingTOdraw/TryingTOdraw/obj/x86/Debug/TryingTOdraw.csproj.CoreCompileInputs.cache
+/home/justin/Projects/TryingTOdraw/TryingTOdraw/obj/x86/Debug/TryingTOdraw.exe
+/home/justin/Projects/TryingTOdraw/TryingTOdraw/obj/x86/Debug/TryingTOdraw.pdb
